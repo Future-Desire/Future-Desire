@@ -1,4 +1,4 @@
-# AGI or Bust!
+# Singularity or Bust!
 
 <!---
 Future-Desire/Future-Desire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
